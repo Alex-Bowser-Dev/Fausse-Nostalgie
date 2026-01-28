@@ -2,7 +2,7 @@
 
 Thank you for considering contributing to this project! This was my first Python project, and I welcome contributions from developers of all skill levels.
 
-## 🎯 Areas Where Help is Needed
+## Areas Where Help is Needed
 
 ### High Priority
 1. **Windows compatibility** - The app currently uses Unix-specific modules (`termios`, `tty`). A Windows-compatible version would be brilliant.
@@ -18,7 +18,7 @@ Thank you for considering contributing to this project! This was my first Python
 7. **New features** - As long as they maintain the retro aesthetic
 8. **Code refactoring** - Making the code more Pythonic whilst maintaining readability
 
-## 🛠️ How to Contribute
+## How to Contribute
 
 ### Reporting Bugs
 
@@ -42,7 +42,7 @@ Thank you for considering contributing to this project! This was my first Python
 
 #### 1. Fork and Clone
 ```bash
-git clone https://github.com/yourusername/fausse-nostalgie.git
+git clone https://github.com/Alex-Bowser-Dev/Fausse-Nostalgie.git
 cd fausse-nostalgie
 ```
 
@@ -100,14 +100,14 @@ Then create a Pull Request on GitHub with:
 - **Screenshots** if UI changes
 - **Testing notes** - what you tested
 
-## 📝 Code Review Process
+## Code Review Process
 
 1. I'll review PRs as soon as I can (usually within a week)
 2. I might request changes or ask questions
 3. Once approved, I'll merge it
 4. Your contribution will be credited in the README
 
-## 🤝 Code of Conduct
+## Code of Conduct
 
 ### Be Respectful
 - This is a learning project
@@ -125,7 +125,7 @@ Then create a Pull Request on GitHub with:
 - Provide context
 - Ask questions if unclear
 
-## 🎓 First Time Contributing?
+## First Time Contributing?
 
 That's fantastic! Here are some beginner-friendly tasks:
 
@@ -136,18 +136,18 @@ That's fantastic! Here are some beginner-friendly tasks:
 
 Don't be intimidated by the code. Start small and ask questions!
 
-## 📚 Resources
+## Resources
 
 - [Python PEP 8 Style Guide](https://pep8.org/)
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 - [GitHub Flow Guide](https://guides.github.com/introduction/flow/)
 - [ANSI Escape Codes Reference](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797)
 
-## 💬 Questions?
+## Questions?
 
 Feel free to:
 - Open an issue with the "question" label
 - Comment on existing issues
 - Reach out directly
 
-Thank you for contributing to Fausse Nostalgie! 🎉
+Thank you for contributing to Fausse Nostalgie!
