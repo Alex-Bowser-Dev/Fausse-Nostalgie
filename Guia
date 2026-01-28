@@ -1,0 +1,29 @@
+# In your project directory
+git init
+git add .
+git commit -m "Initial commit: Fausse Nostalgie v1.0"
+
+# On GitHub, create a new repository called "fausse-nostalgie"
+# Then:
+git remote add origin https://github.com/yourusername/fausse-nostalgie.git
+git branch -M main
+git push -u origin main
+```
+
+#### **4. Create Your First Release**
+On GitHub:
+1. Go to "Releases" → "Create a new release"
+2. Tag: `v1.0.0`
+3. Title: `Fausse Nostalgie v1.0 - Initial Release`
+4. Description:
+```
+First release of Fausse Nostalgie - a retro IBM terminal-inspired clock and calendar.
+
+Features:
+- Digital clock with 12/24h support
+- Interactive calendar
+- 9 global timezones
+- 8 colour schemes
+- Retro IBM aesthetic
+
+Built as my first Python project! 🎉
